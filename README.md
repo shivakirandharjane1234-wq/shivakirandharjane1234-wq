@@ -18,7 +18,7 @@ My name is **Shivakiran Dharjane**, an Information Technology student at **Walch
 ![Code](https://img.shields.io/badge/Code-Python-2ecc8f?style=flat-square&logo=python&logoColor=white&labelColor=444)
 ![Tools](https://img.shields.io/badge/Tools-Git-2ecc8f?style=flat-square&logo=git&logoColor=white&labelColor=444)
 ![Tools](https://img.shields.io/badge/Tools-GitHub-2ecc8f?style=flat-square&logo=github&logoColor=white&labelColor=444)
-![Tools](https://img.shields.io/badge/Tools-Cisco%20Packet%20Tracer-2ecc8f?style=flat-square&logo=cisco&logoColor=white&labelColor=444)
+
 
 ## 📚 Open-Source & Learning Focus
 
@@ -28,5 +28,5 @@ My name is **Shivakiran Dharjane**, an Information Technology student at **Walch
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2ecc8f?style=flat-square&logo=linkedin&logoColor=white&labelColor=444)](https://www.linkedin.com/in/Shivakiran Dharjane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2ecc8f?style=flat-square&logo=linkedin&logoColor=white&labelColor=444)]([https://www.linkedin.com/in/ShivakiranDharjane](https://www.linkedin.com/in/shivakiran-dharjane-64a1b6388/))
 [![Email](https://img.shields.io/badge/Email-2ecc8f?style=flat-square&logo=gmail&logoColor=white&labelColor=444)](mailto:shivakirandharjane1234@gmail.com)
