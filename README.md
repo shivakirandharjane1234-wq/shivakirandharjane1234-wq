@@ -4,7 +4,7 @@
 
 # Hello, folks! 👋
 
-My name is **Shivakiran Dharjane**, an Information Technology student at **Walchand College of Engineering, Sangli**. I enjoy building for the web and practicing competitive programming. You can find me on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) or [Instagram](https://instagram.com/YOUR-USERNAME).
+My name is **Shivakiran Dharjane**, an Information Technology student at **Walchand College of Engineering, Sangli**. I enjoy building for the web and practicing competitive programming. You can find me on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME).
 
 ## 🔧 Technologies & Tools
 
